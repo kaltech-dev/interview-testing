@@ -1,0 +1,43 @@
+{
+    "condos": [
+      {
+        "address": "123 Oak Street, Unit 5, SomeCity, ST, 12345",
+        "mlsId": "MLS123456C",
+        "bedrooms": 2,
+        "bathrooms": 1.5,
+        "price": 200000,
+        "daysOnMarket": 14,
+        "amenities": ["Pool", "Gym", "Underground Parking"]
+      },
+      {
+        "address": "789 Birch Road, Unit 2, AnotherCity, ST, 23456",
+        "mlsId": "MLS789012C",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "price": 150000,
+        "daysOnMarket": 21,
+        "amenities": ["Pool", "Balcony"]
+      }
+    ],
+    "freeholds": [
+      {
+        "address": "456 Pine Street, AnotherCity, ST, 67890",
+        "mlsId": "MLS654321F",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "price": 275000,
+        "daysOnMarket": 30,
+        "features": ["Detached", "Garage", "Garden"]
+      },
+      {
+        "address": "101 Maple Avenue, YetAnotherCity, ST, 34567",
+        "mlsId": "MLS101112F",
+        "bedrooms": 4,
+        "bathrooms": 3.5,
+        "price": 450000,
+        "daysOnMarket": 5,
+        "features": ["Semi-Detached", "Garage", "Deck"]
+      }
+    ]
+  }
+  
