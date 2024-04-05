@@ -1,2 +1,2 @@
 # interview-testing
-interview codings for FE development candidates 
+interview coding and testing for FE development candidates 
