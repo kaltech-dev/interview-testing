@@ -5,7 +5,7 @@ function Notes() {
 
   useEffect(() => {
     async function fetchNotes() {
-      const response = await fetch('http://localhost:3000/Notes');
+      const response = await fetch('http://localhost:3001/notes');
       const data = await response.json();
       setNotes(data);
     }

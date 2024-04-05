@@ -5,7 +5,7 @@ function Posts() {
 
   useEffect(() => {
     async function fetchPosts() {
-      const response = await fetch('http://localhost:3000/posts');
+      const response = await fetch('http://localhost:3001/posts');
       const data = await response.json();
       setPosts(data);
     }
