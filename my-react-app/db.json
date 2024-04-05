@@ -7,7 +7,7 @@
     "comments": [
       { "id": 1, "title": "alex2 comment", "comment": "comment1" }
     ],
-    "Notes": [
+    "notes": [
         { "id": 1, "title": "alex3 notes", "notes": "notes1" }
       ],
     "profile": { "name": "typicode" }
